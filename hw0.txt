@@ -1,3 +1,20 @@
 # Description of your program (part 7)
+# Begin at the beginning of the document, before the first character (excluding spaces). 
+# You will have a number called "count", which is the amount of words in the document. This number
+# is currently 0. You will also have a string of characters called "word". Begin moving through the
+# characters, adding each character to "word", up until you get to a space. When you encounter a space,
+# go to a dictionary and look up "word". If the dictionary contains that word, add a number to "count." Continue
+# moving through the document. When you get to the end of the document, you are done. 
+# The number "count" is the amount of words in the document. 
 
 # Reflection on writing your program (part 8)
+# This exercise was somewhat easy for me, although I feel that if someone actually tried to follow the 
+# instructions, I would realize that it is more difficult than I assumed. It was satisfying to not have
+# to think about the mechanics in writing a program, but it was difficult to try to contextualize ideas
+# that I am used to thinking about in code, such as creating a variable or using a method. 
+# 
+# I have some experience in programming from taking CSE 142 and 143, and I also had a couple internships
+# where I needed to code. I really enjoy that this class has a focus on interactive systems instead of 
+# learning how to optimize the efficiency of your code. I want to pursue a career as a UX Designer, so 
+# I would love to learn about creating prototypes, interactive displays, data visualizations, and other
+# tools to illustrate design ideas. 
